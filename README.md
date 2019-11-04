@@ -9,14 +9,8 @@ This dataset is provided by [Valassis](https://valassis.com/) and was used in th
 
  | File Name | Description |
  |---| --- |
- | training.csv | Training Data: Contains the samples needed to train the model
-Record count: 96,406
-Positive samples: 1,465
-Negative samples: 94,941 |
- | validation.csv | Validation Data: Contains the samples for validating the model.
- Record count: 80,008
- Positive samples: 620
- Negative samples: 793,88 |
+ | training.csv | Training Data: Contains the samples needed to train the model Record count: 96,406 Positive samples: 1,465 Negative samples: 94,941 |
+ | validation.csv | Validation Data: Contains the samples for validating the model. Record count: 80,008 Positive samples: 620 Negative samples: 793,88 |
  | interes_topics.csv | Contains the topic label and topic description. |
 
 
