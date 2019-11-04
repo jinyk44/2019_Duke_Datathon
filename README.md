@@ -6,6 +6,7 @@ Since conversion events are extremely rare, being able to successfully identify 
 In this analysis, we try to identify the customers who are more likely to convert based on their interests in different topics. The dataset provided by Valassis is divided into two groups, training and validation. We first use training dataset to build our model to predict customers who are more likely to convert. Then using validation dataset to evaluate the performance of our model. Finally, based on the analysis of our model, we profiled the converted customers and made suggestions to Valassis on further ad campaigns. 
 ## Data Description
 This dataset is provided by [Valassis](https://valassis.com/) and was used in the 2019 [Duke Datathon](https://dukeml.org/datathon/index.html). Valassis reserved all rights for the dataset.
+
  | File Name | Description |
  |---| --- |
  | training.csv | Training Data: Contains the samples needed to train the model
