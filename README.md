@@ -12,5 +12,7 @@ This dataset is provided by [Valassis](https://valassis.com/) and was used in th
  | training.csv | Training Data: Contains the samples needed to train the model Record count: 96,406 Positive samples: 1,465 Negative samples: 94,941 |
  | validation.csv | Validation Data: Contains the samples for validating the model. Record count: 80,008 Positive samples: 620 Negative samples: 793,88 |
  | interes_topics.csv | Contains the topic label and topic description. |
-
+## Conclusion
+- Given the accuracy score on our models, we conclude that the features we selected are good in general. Therefore, when Valassis looking for rare converted customers from large dataset, we recommend to sepefically look at long term interest in  𝐀𝐫𝐭𝐬 & 𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭, 𝐀𝐮𝐭𝐨𝐬 & 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬  and short term interest in  𝐅𝐢𝐧𝐚𝐧𝐜𝐞 
+- Also, we strongly recommend Valassis to consider the number of sub topics a user would be interested in when predicting if a user would be converted
 
