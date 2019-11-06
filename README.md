@@ -14,5 +14,5 @@ This dataset is provided by [Valassis](https://valassis.com/) and was used in th
  | interes_topics.csv | Contains the topic label and topic description. |
 ## Conclusion
 - Given the accuracy score on our models, we conclude that the features we selected are good in general. Therefore, when Valassis looking for rare converted customers from large dataset, we recommend to sepefically look at long term interest in  𝐀𝐫𝐭𝐬 & 𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭, 𝐀𝐮𝐭𝐨𝐬 & 𝐕𝐞𝐡𝐢𝐜𝐥𝐞𝐬  and short term interest in  𝐅𝐢𝐧𝐚𝐧𝐜𝐞 
-- Also, we strongly recommend Valassis to consider the number of sub topics a user would be interested in when predicting if a user would be converted
+- Also, we strongly recommend Valassis to consider the breadth of interests of customer. Our result showed that the breadth of interests of customers have high correlation with coversion event
 
